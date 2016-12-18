@@ -1,24 +1,12 @@
-# README
+# basic-api-study
+A basic API made with Ruby on Rails for study purposes.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby version:
+2.3.1p1112 (2016-04-26 revision 54768)
 
-Things you may want to cover:
+Rails version:
+5.0.0.1
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# TODO:
+- Database
+- API documentation
